@@ -6,7 +6,7 @@ Opiskelen tieto- ja viestintätekniikkaa Esedussa, ja valmistun ohjelmistokehitt
 
 Suurin osa repositorioistani on opintoihin liittyviä harjoituksia. Ne vaihtelevat alkeistehtävistä monipuolisempiin projekteihin, kuten Full Stack Open -kurssin tehtäviin ja PostgreSQL-taustaisiin web-sovelluksiin.
 
-> 💡 Huom: Varhaisimmat repositorioni ovat hyvin yksinkertaisia opintojeni alkuvaiheen harjoituksia. Mukana ei ole README-tiedostoja.
+> 💡 Huom: Varhaisimmat repositorioni ovat hyvin yksinkertaisia opintojeni alkuvaiheen harjoituksia.
 
 ## 📌 Kiinnostuksen kohteet
 
