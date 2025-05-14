@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hei! Olen Simo Toivanen 👋
 
-<!--
-**Toivanen03/Toivanen03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Opiskelen tieto- ja viestintätekniikkaa Esedussa, ja valmistun ohjelmistokehittäjäksi joulukuussa 2025. GitHub-profiilini toimii oppimispäiväkirjanani ja portfoliona.
 
-Here are some ideas to get you started:
+## 🔧 Mitä täältä löytyy?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Suurin osa repositorioistani on opintoihin liittyviä harjoituksia. Ne vaihtelevat alkeistehtävistä monipuolisempiin projekteihin, kuten Full Stack Open -kurssin tehtäviin ja PostgreSQL-taustaisiin web-sovelluksiin.
+
+> 💡 Huom: Varhaisimmat repositorioni ovat hyvin yksinkertaisia opintojeni alkuvaiheen harjoituksia. Mukana ei ole README-tiedostoja.
+
+## 📌 Kiinnostuksen kohteet
+
+- Backend-kehitys (Node.js, Express, tietokannat)
+- Sovellusarkkitehtuuri ja CI/CD-prosessit
+- Ohjelmistokehityksen käytännöt
+- Peli- ja mobiilisovellukset
+
+## 🌐 Linkit
+
+- 🔗 [simotoivanen.fi](https://simotoivanen.fi)
+- 💻 [GitHub-profiili](https://github.com/Toivanen03)
+
+---
+
+> ⚙️ Tavoitteeni on kehittyä ohjelmistokehittäjänä alan rautaiseksi ammattilaiseksi.
